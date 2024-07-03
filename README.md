@@ -1,9 +1,9 @@
-### Hi there I am [Rishab](https://rishabkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there I am [Ravi Kiran](https://rishabkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rishabincloud)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabkumar7)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@rishabkumar7) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rishabincloud)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Ravi_Kiran03)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikiranlinked/)
+
 
 
 ---
@@ -19,64 +19,6 @@ I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-hos
 </p>
 
 ---
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How I passed the AI-102 exam | Azure AI Engineer Associate Certification](https://www.youtube.com/watch?v=iz3d2WX6IS4)
-- [Study with me for Azure AI Certification #azure #cloud #ai](https://www.youtube.com/watch?v=EHtj0Puzcwg)
-- [How I would learn DevOps in 2024 | DevOps Roadmap](https://www.youtube.com/watch?v=Ss-5qdrMz2Q)
-- [BenQ Halo ScreenBar helps me a lot for coding sessions! #coding #setup](https://www.youtube.com/watch?v=PK2D38XtULg)
-- [What is Portainer? | best tool to manage containers?](https://www.youtube.com/watch?v=epUqbtQSx_g)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Pass the AI-102 Azure AI Engineer Associate Certification](https://blog.rishabkumar.com/pass-ai-102-azure-ai-engineer-associate)
-- [The Digital Thief: How Smartphones Are Robbing Us!](https://blog.rishabkumar.com/how-smartphones-are-robbing-us)
-- [The Cloud Resume API Challenge - Beginner Cloud Project](https://blog.rishabkumar.com/cloud-resume-api-challenge)
-- [How I passed the Azure AZ-204 Certification Exam](https://blog.rishabkumar.com/azure-az-204-study-guide)
-- [Should you include .terraform.lock.hcl in .gitignore?](https://blog.rishabkumar.com/terraform-lock-hcl-to-gitignore-or-commit)
-<!-- BLOG-POST-LIST:END -->
-▶️ [more blog posts...](https://blog.rishabkumar.com)
-
----
-
-### My Github Stats 📊
-
-[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabkumar7&theme=ads-juicy-fresh)](https://git.io/streak-stats)
-<!--
-For future use
-<a href="https://www.instagram.com/hemant.gz/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
--->
-
----
-
-### ✨ My Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/learntocloud/define-the-cloud/issues/189#issuecomment-2195036490) in [learntocloud/define-the-cloud](https://github.com/learntocloud/define-the-cloud)
-2. 🎉 Merged PR [#9](https://github.com/rishabkumar7/cloud-resume-api/pull/9) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-3. 🎉 Merged PR [#10](https://github.com/rishabkumar7/cloud-resume-api/pull/10) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-4. 🎉 Merged PR [#11](https://github.com/rishabkumar7/cloud-resume-api/pull/11) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-5. 🗣 Commented on [#11](https://github.com/rishabkumar7/cloud-resume-api/pull/11#issuecomment-2192012451) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
-<!--END_SECTION:activity-->
-
-<br/>
-
-<!--
-**rishabkumar7/rishabkumar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
