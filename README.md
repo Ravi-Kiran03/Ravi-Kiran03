@@ -8,7 +8,7 @@
 
 ## 🚧 Profile Under Construction 🚧
 
-I'm currently working on building an awesome GitHub profile! Stay tuned for updates.
+I'm currently working on building an awesome GitHub profile! 
 
 ---
 
