@@ -1,4 +1,4 @@
-### Hi there I am [Ravi Kiran](https://rishabkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there I am [Ravi Kiran]
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikiranlinked/)
