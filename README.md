@@ -13,7 +13,7 @@ My passion is to dive into the DevOps field, blending my tech skills with real-w
 
 ## 🚧 Profile Under Construction 🚧
 
-🔍 Roadmap by January:
+🔍 Roadmap by January 2025:
 
 - Languages: Python, Bash/Shell Scripting, YAML
 - Cloud Platforms: AWS
