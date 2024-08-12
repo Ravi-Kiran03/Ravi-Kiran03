@@ -7,18 +7,27 @@
 
 ---
 
-## 🚧 Profile Under Construction 🚧
-
-I'm currently working on building an awesome GitHub profile! 
+My passion is to dive into the DevOps field, blending my tech skills with real-world applications. Currently pursuing a Master’s in Computer Science while working part-time as a chef, I dedicate 40+ hours a week to mastering DevOps tools and practices.
 
 ---
 
-### Tools and technologies ⚙️
-- Python
-- Jenkins
-- Ansible
-- Docker
-- On my way to add more (after learning)
+## 🚧 Profile Under Construction 🚧
+
+🔍 Roadmap by January:
+
+- Languages: Python, Bash/Shell Scripting, YAML
+- Cloud Platforms: AWS
+- Infrastructure as Code: Terraform, CloudFormation, Ansible
+- Containerization & Orchestration: Docker, Kubernetes
+- CI/CD: Jenkins
+- Monitoring & Observability: Prometheus, Grafana, ELK Stack
+
+🔧 Projects on the Horizon:
+
+- Microservices applications
+- Multi-tier architectures
+- Database applications
+- Projects using Java, .NET, Python, and Go
 
 ---
 
