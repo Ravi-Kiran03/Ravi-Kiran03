@@ -36,8 +36,7 @@ My passion is to dive into the DevOps field, blending my tech skills with real-w
 - 🌱 I’m learning the latest in container orchestration and infrastructure as code.
 - 👯 I’m looking to collaborate on innovative DevOps projects and automation tools.
 - 🤔 I’m looking for help with advanced Kubernetes configurations and multi-cloud strategies.
-- 💬 Ask me about DevOps best practices, cloud platforms, or my latest coding adventures.
-- 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/ravikiranlinked/)
+- 📫 How to reach me: [![LinkedIn](https://www.linkedin.com/in/ravikiranlinked/)
 
 
 -->
