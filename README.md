@@ -1,14 +1,14 @@
 ### Hi there I am [Ravi Kiran](https://ravikiranmalishetti.com) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravikiranmalishetti)
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://ravikiranmalishetti.com) 
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium-profile)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@malishettiravikiran)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Ravi_Kiran03)
 
 ---
 
-I am a Cloud and DevOps enthusiast, currently building my portfolio and exploring technologies like AWS, Azure, and GCP. I love sharing my learnings in cloud computing, infrastructure as code, and automation.
+I am a Cloud and DevOps enthusiast, currently building my portfolio and exploring technologies in AWS, Github Actions, Ansible, Docker, Terraform. I love sharing my learnings in cloud computing, infrastructure as code, and automation.
 
 ---
 
