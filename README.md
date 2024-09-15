@@ -1,42 +1,92 @@
-### Hi there I am Ravi Kiran <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+### Hi there I am [Rishab](https://rishabkumar.com)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikiranlinked/)
-
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rishabincloud)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabkumar7)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@rishabkumar7) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rishabincloud)
 
 
 ---
 
-My passion is to dive into the DevOps field, blending my tech skills with real-world applications. Currently pursuing a Master’s in Computer Science while working part-time as a chef, I dedicate 40+ hours a week to mastering DevOps tools and practices.
+I am a Staff Developer Evangelist at Twilio, co-author of Learn to Cloud, co-host of Random Cloud Chats podcast, Microsoft MVP, AWS Community Builder, and YouTuber. Passionate about helping people get into cloud and sharing my learnings in cloud, DevOps and now Developer Relations. 
 
 ---
 
-## 🚧 Profile Under Construction 🚧
-
-🔍 Roadmap by January 2025:
-
-- Languages: Python, Bash/Shell Scripting, YAML
-- Cloud Platforms: AWS
-- Infrastructure as Code: Terraform, CloudFormation, Ansible
-- Containerization & Orchestration: Docker, Kubernetes
-- CI/CD: Jenkins
-- Monitoring & Observability: Prometheus, Grafana, ELK Stack
-
-🔧 Projects on the Horizon:
-
-- Microservices applications
-- Multi-tier architectures
-- Database applications
-- Projects using Java, .NET, Python, and Go
+### Languages and tools ⚙️
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<p>
+<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VUE Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+</p>
 
 ---
 
->
-- 🔭 I’m currently working on automating cloud deployments and perfecting my CI/CD pipelines.
-- 🌱 I’m learning the latest in container orchestration and infrastructure as code.
-- 👯 I’m looking to collaborate on innovative DevOps projects and automation tools.
-- 🤔 I’m looking for help with advanced Kubernetes configurations and multi-cloud strategies.
-- 📫 How to reach me: mravikiranonline@gmail.com
+### 📺 Latest YouTube Videos
 
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [5 Lessons after 6 years in tech](https://www.youtube.com/watch?v=Ppdq7U84X4M)
+- [Deploy AWS EKS Cluster with Terraform | DevOps Capstone Project](https://www.youtube.com/watch?v=LZssMfdJSeM)
+- [Cloud Resume API Challenge Giveaway Winners](https://www.youtube.com/watch?v=Qx2somuO8c0)
+- [3 ways to interact with Ollama | Ollama with LangChain](https://www.youtube.com/watch?v=cEv1ucRDoa0)
+- [Tech Career Journey of International Student | My First Keynote | Canada](https://www.youtube.com/watch?v=6qJBQmXFr7Q)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
+▶️ [more videos...](https://www.youtube.com/channel/UCtLwBE6ZNXnQdQp5o36BUxA)
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [How to Pass the AI-102 Azure AI Engineer Associate Certification](https://blog.rishabkumar.com/pass-ai-102-azure-ai-engineer-associate)
+- [The Digital Thief: How Smartphones Are Robbing Us!](https://blog.rishabkumar.com/how-smartphones-are-robbing-us)
+- [The Cloud Resume API Challenge - Beginner Cloud Project](https://blog.rishabkumar.com/cloud-resume-api-challenge)
+- [How I passed the Azure AZ-204 Certification Exam](https://blog.rishabkumar.com/azure-az-204-study-guide)
+- [Should you include .terraform.lock.hcl in .gitignore?](https://blog.rishabkumar.com/terraform-lock-hcl-to-gitignore-or-commit)
+<!-- BLOG-POST-LIST:END -->
+▶️ [more blog posts...](https://blog.rishabkumar.com)
+
+---
+
+### My Github Stats 📊
+
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabkumar7&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+<!--
+For future use
+<a href="https://www.instagram.com/hemant.gz/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://leetcode.com//">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+-->
+
+---
+
+### ✨ My Recent Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com/rishabkumar7/CloudNotes/pull/8) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+2. 💪 Opened PR [#8](https://github.com/rishabkumar7/CloudNotes/pull/8) in [rishabkumar7/CloudNotes](https://github.com/rishabkumar7/CloudNotes)
+3. 🗣 Commented on [#2](https://github.com/twilio-samples/send-and-receive-sms-anonymously-python/pull/2#issuecomment-2334760335) in [twilio-samples/send-and-receive-sms-anonymously-python](https://github.com/twilio-samples/send-and-receive-sms-anonymously-python)
+4. 💪 Opened PR [#2](https://github.com/twilio-samples/send-and-receive-sms-anonymously-python/pull/2) in [twilio-samples/send-and-receive-sms-anonymously-python](https://github.com/twilio-samples/send-and-receive-sms-anonymously-python)
+5. 🗣 Commented on [#47](https://github.com/rishabkumar7/cloud-resume-api/pull/47#issuecomment-2334275515) in [rishabkumar7/cloud-resume-api](https://github.com/rishabkumar7/cloud-resume-api)
+<!--END_SECTION:activity-->
+
+<br/>
+
+<!--
+**rishabkumar7/rishabkumar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
