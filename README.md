@@ -3,8 +3,8 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravikiranmalishetti)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/your-youtube-channel) 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-coffee-page)
+[![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://ravikiranmalishetti.com) 
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium-profile)
 
 ---
 
@@ -20,11 +20,11 @@ I am a Cloud and DevOps enthusiast, currently building my portfolio and explorin
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest Website Updates
 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Add your video titles here](https://www.youtube.com/watch?v=your-video-link)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+<!-- WEBSITE-UPDATE-LIST:START -->
+- [Check out my latest projects](https://ravikiranmalishetti.com)
+<!-- WEBSITE-UPDATE-LIST:END -->
 
 ---
 
