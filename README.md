@@ -17,11 +17,7 @@ OS: Windows 10, Ubuntu
 Uptime: 25 years  
 Host: University of Hertfordshire  
 Kernel: Cloud and DevOps Engineer  
-IDE: IntelliJ IDEA, VSCode
-
-Languages.Programming: Go, JavaScript, Python  
-Languages.Computer: HTML, CSS, JSON, XML, YAML, Markdown  
-Languages.Real: English, Telugu
+IDE: VSCode
 
 Hobbies.Software: Cloud Architecture, DevOps  
 Hobbies.Hardware: Overclocking, Automation
@@ -29,14 +25,5 @@ Hobbies.Hardware: Overclocking, Automation
 Contact:
 ---
 Email: cloud@ravikiranmalishetti.com  
-LinkedIn: [Your LinkedIn URL]  
-Discord: [Your Discord Handle]
-
-GitHub Stats:
----
-[![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=dark)](https://github.com/yourusername)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
-
 
 
